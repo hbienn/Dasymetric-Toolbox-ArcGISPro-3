@@ -1,8 +1,5 @@
 # Intelligent Dasymetric Toolbox for ArcGIS Pro
 
-## Beta
-The EnviroAtlas Intelligent Dasymetric Toolbox for ArcGIS Pro is currently in development. 
-
 ## Overview
  
 Dasymetric mapping is a geospatial technique that uses information such as land cover types to more accurately distribute data within selected boundaries like census blocks.

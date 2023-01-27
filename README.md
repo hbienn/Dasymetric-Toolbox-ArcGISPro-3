@@ -1,9 +1,7 @@
 # Intelligent Dasymetric Toolbox for ArcGIS Pro
 
-[<img src="https://enviroatlas.epa.gov/enviroatlas/interactivemap/images/logo.png"     title="EnviroAtlas" width=400 >](https://www.epa.gov/enviroatlas)
-
 ## Beta
-The EnviroAtlas Intelligent Dasymetric Toolbox for ArcGIS Pro is currently in development. The most recent release for ArcMap 10.3 is available at [https://www.epa.gov/enviroatlas/dasymetric-toolbox](https://www.epa.gov/enviroatlas/dasymetric-toolbox).
+The EnviroAtlas Intelligent Dasymetric Toolbox for ArcGIS Pro is currently in development. 
 
 ## Overview
  
